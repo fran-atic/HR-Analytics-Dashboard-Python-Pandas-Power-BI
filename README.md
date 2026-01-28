@@ -53,13 +53,13 @@ The dashboard helps answer:
 ## 📷 Dashboard Screenshots
 
 ### Executive Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/HR_Analytics_Executive_Overview_screenshot.jpg)
 
 ### Attrition Deep Dive
-![Deep Dive](screenshots/attrition_deep_dive.png)
+![Deep Dive](screenshots/HR_Analytics_Attrition_Deep_Dive_screenshot.jpg)
 
 ### Satisfaction & Experience
-![Satisfaction](screenshots/satisfaction_experience.png)
+![Satisfaction](screenshots/HR_Analytics_Satisfaction_and_Experience_screenshot.jpg)
 
 ## 🧑‍💻 Author
 
