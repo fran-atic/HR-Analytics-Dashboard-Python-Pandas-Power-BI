@@ -7,9 +7,8 @@ This project analyzes employee attrition using an HR dataset and presents insigh
 Before building the dashboard, the dataset was cleaned and preprocessed using Python (pandas):
 
 - Removed irrelevant and constant columns
-- Removed redundant salary columns
-- Selected only analysis-relevant features
-- Created cleaned dataset for Power BI consumption
+- Checked for duplicated values
+- Checked for null values
 
 The dashboard helps answer:
 - Why are employees leaving?
